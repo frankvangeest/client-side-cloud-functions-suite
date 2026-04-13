@@ -10,4 +10,4 @@ It doesn't even have to be limited for use within javascript, they could also be
 Things like document / image / audio / video manipulation.
 Client side file conversions. The data doesn't even have to go through the backend.
 
-With WASM, web client application can do a lot more things native applications can do. And still be performant. 
+With WASM, web client applications can do a lot more things that native applications can do. And still be performant. 
